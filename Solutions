@@ -1,0 +1,66 @@
+Q27. Powers of e and pi
+Solution: Let's assume e^pi > pi^e, now taking ln on both side we get pi> eln(pi). Taking an average value pi = 3.14, e = 2.71 and ln(pi) is something near 1. So, our assumption was true. e^pi is greater. 
+
+Q44. Infinite Powers of X
+Solution: even if we remove something from infinite, it's still infinite. So, we will consider x^2 as the concise equation. Now, x^2 = 2. So x = sqrt(2)
+
+Q72. Integral X e to the X
+Solution: Simple integration
+          
+Q86. Number of Digits 2^50
+Solution: Number of digits is x^y is given by (y*(log(x)) + 1). Using the formulae, we get 16.
+
+Q85. Big Ship vs Little Ship
+Solution: The question can be considered as comparing x^2 to 2x when x<1. 
+
+Q20. Zeros in 100 Factorial
+Solution: Number of zeros in n! can be calculated using [n/5] + [n/25] + [n/125] + [n/625] + ....
+
+Q9. Bridge and Flashlight
+Solution: The question should be stated more clearly it should be clearly stated that there is only torchlight. 1 and 2 goes together first (2 mins), 2 comes back(2 mins) and handover torch 5 and 10 can go together now(10 mins) now 1 should come back with torch(1 min) and 1 and 2 can cross together now(2 mins). Total 17 mins. Remember we need someone to hold torch on other side for the transfer. 
+
+Q15. Horse Race
+Solution: Very nice problem. I had to invest a lot of time in this.
+So, the solution is 7(first find the fastest in each group and arrange it from right to left now arrange the fastest from top to botton now remove all hoarses that slower than three or basically two because we know the fastest. So two will be left in 1, two in 2, one in 3 making one more race possible.)
+
+Q179. First Factorial with 100 Digits
+Solution: Formula for number of digits in n! is n*log(n/e) + (log(2*pi*n))/2
+          
+Q177. Bug in Cubic Room
+Soultion: The shortest path for the insect would be to go to centre of adjacent side and follow same path for the opposite corner. Visualise seeing the room. Shortest would be sqrt(5)
+
+Q19. Date with Different Digits
+Solution: Easy question just requires some mental thinking for a minute or so keep the digits different answer is 2345/06/17
+
+Q35. UNION vs UNION ALL
+Solution: Union all doesn't eliminate duplicate rows and columns which happens when we select Union. 
+
+Q176. Socks
+Solutions: Easy problem, taking out first sock is completely random now probability is with second one. To match first probabilty is 1(sock of that color left as we already took one before) /3(total socks)
+
+Q174. Standard Deviation List of Integers
+Solution: Use general formula to find mean and SD
+
+Q172. Square and Dots on Distinct Edges
+Solution: First dot can be placed anywhere, second dot can be placed on 3/4 and forth for 2/4. Giving total probability as 3/8.
+
+Q170. Ping Pong Balls in 747
+Solution: Volume of a Boeing 747 is around 1000 cubic meter and radius of one ping pong ball is 2 cm. 
+
+Q168. Playing Lebron James
+Solution: The probability of winning is very less as he is one of the best player.
+
+Q165. Die Hard Riddle
+Solution: Put three times with 3l one, remove one from 5l one. 
+
+Q17. Colored Hats
+Solution: Very nice question, so basically everyone is arranged facing forward so what we can do is the last can see evry hat so, he can count the numbers remember 99 hats are there now so there must be a hat in even number and one in odd. So, if he sees odd number of black hats he should say black now next one can see forward and if he still sees odd number of black hats he should say white or other way around and everyone should follow that. Making maximum saved with certainity 99.
+
+Q157. Derivative of e to the X
+Solution: easy
+
+Q152. Berries
+Solution: Simple maths
+
+Q149. Dice Three Rolls
+Solution: 
